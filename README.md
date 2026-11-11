@@ -1,5 +1,14 @@
 # jlens — Jacobian lens
 
+> **PatientWords fork of `anthropics/jacobian-lens`.** PatientWords cites this reference implementation as a
+> method description. On 2026-11-10 the engine had never run its code: the engine's J-Lens readouts come from
+> the hosted Neuronpedia endpoint. Its role is recorded in the PatientWords engine's
+> [ecosystem map](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/docs/ecosystem.md#jacobian-lens-patientwords)
+> and [repository registry](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/data/ecosystem/repositories.v1.json).
+> To start offline, follow the engine's
+> [offline quickstart](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/docs/start_here.md#procedure-a-offline-quickstart),
+> which needs no method fork. The rest of this README is the upstream project's.
+
 > **Reference implementation.** Not maintained and not accepting contributions.
 
 Companion code for [**Verbalizable Representations Form a Global Workspace in
